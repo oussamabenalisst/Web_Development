@@ -1,0 +1,8 @@
+label {
+  color: tomato;
+  font-size: 1.2rem;
+}
+input[type="text"] {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
